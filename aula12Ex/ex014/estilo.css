@@ -27,9 +27,9 @@ footer{
 
 .imagem{
    
-    display: flex; 
-    justify-content: center;
+    border-radius: 50px;
+    border: 1px solid #6b6a6a;
+    max-width: 100px; 
     align-items: center;
-    border-radius: 50%;
     overflow: hidden;
 }
